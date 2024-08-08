@@ -1,47 +1,10 @@
-# SteVeN 的节点列表
-
-# SSR
-
-# SSR-香港-001-Netflix-hk001.iair.ml
-
-ssr://aGswMDEuaWFpci5tbDoxMDIwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6aHR0cF9zaW1wbGU6VW1zeE5Ua3pOVGMvP29iZnNwYXJhbT0mcmVtYXJrcz1VMU5TTGVtbW1lYTRyeTB3TURFdFRtVjBabXhwZUMxb2F6QXdNUzVwWVdseUxtMXMmZ3JvdXA9VTNSbFZtVk8
-
-# SSR-美国-001-us001.iair.ml
-
-ssr://dXMwMDEuaWFpci5tbDoxMDIwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjA6aHR0cF9zaW1wbGU6VW1zeE5Ua3pOVGMvP29iZnNwYXJhbT0mcmVtYXJrcz1VMU5TTGVlLWp1V2J2UzB3TURFdGRYTXdNREV1YVdGcGNpNXRiQSZncm91cD1VM1JsVm1WTw
-
-
-
-# SSR-中转
-
-# SSR-香港-001-中转-Netflix-hk001t.iair.ml
-
-ssr://aGswMDF0LmlhaXIubWw6MTAyMDA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwOmh0dHBfc2ltcGxlOlVtc3hOVGt6TlRjLz9vYmZzcGFyYW09JnJlbWFya3M9VTFOU0xlbW1tZWE0cnkwd01ERXQ1TGl0Nkwyc0xVNWxkR1pzYVhndGFHc3dNREYwTG1saGFYSXViV3cmZ3JvdXA9VTNSbFZtVk8
-
-# SSR-美国-001-中转-us001t.iair.ml
-
-ssr://dXMwMDF0LmlhaXIubWw6MTAyMDA6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwOmh0dHBfc2ltcGxlOlVtc3hOVGt6TlRjLz9vYmZzcGFyYW09JnJlbWFya3M9VTFOU0xlZS1qdVdidlMwd01ERXQ1TGl0Nkwyc0xYVnpNREF4ZEM1cFlXbHlMbTFzJmdyb3VwPVUzUmxWbVZP
-
-
-
-#v2ray-华硕梅林
-
-#v2ray-香港-001-Netflix-hk001.iair.ml
-
-vmess://eyJwcyI6InYycmF5Lemmmea4ry0wMDEtTmV0ZmxpeC1oazAwMS5pYWlyLm1sIiwidiI6IjIiLCJhZGQiOiJoazAwMS5pYWlyLm1sIiwicG9ydCI6IjQ0MyIsImlkIjoiYWRmYzAzOGYtY2FkNi00Zjc0LTg4ZTMtODAyY2U0NjdjYmY1IiwiYWlkIjoiMjMzIiwibmV0Ijoid3MiLCJob3N0IjoiaGswMDEuaWFpci5tbCIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0=
-
-#v2ray-美国-001-us001.iair.ml
-
-vmess://eyJwcyI6InYycmF5Lee+juWbvS0wMDEtdXMwMDEuaWFpci5tbCIsInYiOiIyIiwiYWRkIjoidXMwMDEuaWFpci5tbCIsInBvcnQiOiI0NDMiLCJpZCI6IjJhOGI5YWI4LWI1NWItNDA3OS1iNjY1LTc3YzBhMTUzNjBjYiIsImFpZCI6IjIzMyIsIm5ldCI6IndzIiwiaG9zdCI6InVzMDAxLmlhaXIubWwiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-
-
-
-#v2ray-中转-华硕梅林
-
-#v2ray-香港-001-中转-Netflix-hk001t.iair.ml
-
-vmess://eyJwcyI6InYycmF5Lemmmea4ry0wMDEt5Lit6L2sLU5ldGZsaXgtaGswMDF0LmlhaXIubWwiLCJ2IjoiMiIsImFkZCI6ImhrMDAxdC5pYWlyLm1sIiwicG9ydCI6IjQ0MyIsImlkIjoiYWRmYzAzOGYtY2FkNi00Zjc0LTg4ZTMtODAyY2U0NjdjYmY1IiwiYWlkIjoiMjMzIiwibmV0Ijoid3MiLCJob3N0IjoiaGswMDF0LmlhaXIubWwiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-
-#v2ray-美国-001-中转-us001t.iair.ml
-
-vmess://eyJwcyI6InYycmF5Lee+juWbvS0wMDEt5Lit6L2sLXVzMDAxdC5pYWlyLm1sIiwidiI6IjIiLCJhZGQiOiJ1czAwMXQuaWFpci5tbCIsInBvcnQiOiI0NDMiLCJpZCI6IjJhOGI5YWI4LWI1NWItNDA3OS1iNjY1LTc3YzBhMTUzNjBjYiIsImFpZCI6IjIzMyIsIm5ldCI6IndzIiwiaG9zdCI6InVzMDAxdC5pYWlyLm1sIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
+临时
+西瓜
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#V1-%E8%B6%8A%E5%8D%9704%7CNF%7CGPT
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A104
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:43001?sni=hk001.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF01
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03%7Copenai
+trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46009?sni=us009.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD09%7Copenai
